@@ -8,7 +8,7 @@ I am an enthusiastic and detail-oriented IT professional with hands-on experienc
 
 ## 🛠️ Tech Stack  
 - **Languages:** Python, Java, SQL  
-- **Frameworks & Tools:** Django, Django Rest Framework, Django Oscar, Flask, Hibernate, Servlet-JSP  
+- **Frameworks & Tools:** Django, Django Rest Framework, Django Oscar, Flask,FastAPI, Hibernate, Servlet-JSP  
 - **Frontend:** HTML, CSS, JavaScript, React.js  
 - **Databases:** MySQL, PostgreSQL  
 - **Others:** Git, Swagger, Data Structures  
