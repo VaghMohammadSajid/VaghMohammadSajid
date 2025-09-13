@@ -38,7 +38,7 @@ I am an enthusiastic and detail-oriented IT professional with hands-on experienc
 
 ---
 
-### 🔹 [RoseValley (E-commerce Website)]([https://github.com/VaghMohammadSajid/RoseValley](https://github.com/VaghMohammadSajid/RoseVally_E_Commmerce)  
+### 🔹 [RoseValley (E-commerce Website)](https://github.com/VaghMohammadSajid/RoseVally_E_Commmerce)  
 - College project: E-commerce system developed using **Java, JSP, Servlet, Hibernate, MySQL**.  
 - Implemented **user authentication, product catalog, and order management**.  
 - Learned full-stack development lifecycle during BCA program.  
