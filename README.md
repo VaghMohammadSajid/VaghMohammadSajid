@@ -31,7 +31,7 @@ I am an enthusiastic and detail-oriented IT professional with hands-on experienc
 
 ---
 
-### 🔹 [TeensTogether (Web Application)](https://github.com/VaghMohammadSajid/TeensTogether)  
+### 🔹 [TeensTogether (Web Application)](https://github.com/VaghMohammadSajid/teens_togather)  
 - Built a social web application using **Django, Django Rest Framework, Swagger, PostgreSQL**.  
 - Developed APIs for authentication, posting content, and interaction.  
 - Focused on **youth engagement platform** for collaborative communication.  
