@@ -52,7 +52,8 @@ CGPA: 8.44 / 10
 ---
 
 ## 📫 Connect with Me  
-- 📍 Himatnagar, Gujarat, India  
+- 📍 Himatnagar, Gujarat, India
+- 📞 Mobile: **+91 8980331323**  
 - ✉️ vaghmohammadsajid8@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mo-sajid-111504274)  
 
