@@ -17,7 +17,7 @@ I am an enthusiastic and detail-oriented IT professional with hands-on experienc
 
 ## 📌 Featured Projects  
 
-### 🔹 [OneUp Brand (E-commerce Website)](https://github.com/VaghMohammadSajid/OneUp)  
+### 🔹 [OneUp Brand (E-commerce Website)](https://github.com/VaghMohammadSajid/OneupBrand_Project-Admin_panel-)  
 - Built an e-commerce platform using **Django, Django Rest Framework, Django Oscar, PostgreSQL, React.js**.  
 - Implemented product listing, shopping cart, and checkout workflows.  
 - Designed REST APIs and optimized queries for smooth performance.  
