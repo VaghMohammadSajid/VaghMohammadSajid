@@ -24,7 +24,7 @@ I am an enthusiastic and detail-oriented IT professional with hands-on experienc
 
 ---
 
-### 🔹 [Biometric Attendance System](https://github.com/VaghMohammadSajid/Biometric-Attendance)  
+### 🔹 [Biometric Attendance System](https://github.com/VaghMohammadSajid/biometric_attendance)  
 - Developed an attendance management system using **Python + Django**.  
 - Integrated **biometric authentication** for accurate user verification.  
 - Implemented role-based access control for admins, teachers, and students.  
