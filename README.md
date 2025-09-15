@@ -29,7 +29,6 @@ I am an enthusiastic and detail-oriented **Python & Django developer** with ~1.5
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />&nbsp;
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/JSP-000000?logo=apachetomcat&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Git-000000?logo=git&logoColor=F05032" />
 </p>
 
 ---
