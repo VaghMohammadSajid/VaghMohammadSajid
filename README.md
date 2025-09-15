@@ -39,17 +39,15 @@ I am an enthusiastic and detail-oriented **Python & Django developer** with ~1.5
 
 ## 🚀 GitHub Insights  
 
+## 🌟 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaghMohammadSajid&show_icons=true&count_private=true&hide_border=true&title_color=ff6e96&icon_color=5f99ff&text_color=c9d1d9&bg_color=0d1117" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaghMohammadSajid&layout=compact&hide_border=true&title_color=ff6e96&text_color=c9d1d9&bg_color=0d1117" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VaghMohammadSajid&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaghMohammadSajid&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VaghMohammadSajid&theme=onedark&margin-w=15&margin-h=15&no-frame=true&row=1" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VaghMohammadSajid&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=VaghMohammadSajid&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
