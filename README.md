@@ -21,18 +21,22 @@ I am an enthusiastic and detail-oriented **Python & Django developer** with ~1.5
 
 ## 📬 Contact Me  
 
-<p align="left">
-  <a href="https://www.google.com/maps/place/Himatnagar,+Gujarat,+India" target="_blank">
-    <img src="https://img.icons8.com/fluency-systems-filled/24/fa314a/marker.png"/> Himatnagar, Gujarat, India
-  </a>  
-  <br/>
-  <a href="mailto:vaghmohammadsajid8@gmail.com">
-    <img src="https://img.icons8.com/fluency-systems-filled/24/4caf50/new-post.png"/> vaghmohammadsajid8@gmail.com
-  </a>  
-  <br/>
-  <a href="tel:+918980331323">
-    <img src="https://img.icons8.com/fluency-systems-filled/24/1DA1F2/phone.png"/> +91 8980331323
-  </a>  
+<p align="left" style="display: flex; flex-direction: column; gap: 8px;">
+  <span>
+    <img src="https://img.icons8.com/fluency-systems-filled/20/fa314a/marker.png" 
+         style="vertical-align: middle; margin-right: 8px;"/> 
+    Himatnagar, Gujarat, India
+  </span><br/>
+  <span>
+    <img src="https://img.icons8.com/fluency-systems-filled/20/4caf50/new-post.png" 
+         style="vertical-align: middle; margin-right: 8px;"/> 
+    vaghmohammadsajid8@gmail.com
+  </span><br/>
+  <span>
+    <img src="https://img.icons8.com/fluency-systems-filled/20/1DA1F2/phone.png" 
+         style="vertical-align: middle; margin-right: 8px;"/> 
+    +91 8980331323
+  </span>
 </p>
 
 ---
