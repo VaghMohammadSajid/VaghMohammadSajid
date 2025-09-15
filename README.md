@@ -25,41 +25,74 @@ I am an enthusiastic and detail-oriented **Python & Django developer** with ~1.5
 
 ## 🛠 Tech Stack & Tools  
 
-<p align="center">
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Data%20Structures-009688?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;
-
-  <!-- Frameworks -->
-  <br/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Django%20Rest%20Framework-FF1709?style=for-the-badge&logo=django&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />&nbsp;
-
-  <!-- Databases -->
-  <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />&nbsp;
-
-  <!-- Frontend -->
-  <br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
-
-  <!-- Tools -->
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/SwaggerHub-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />&nbsp;
-
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" width="50"/><br/>
+      <b>Python</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=java" width="50"/><br/>
+      <b>Java</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=javascript" width="50"/><br/>
+      <b>JavaScript</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="50"/><br/>
+      <b>HTML</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="50"/><br/>
+      <b>CSS</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=django" width="50"/><br/>
+      <b>Django</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="50"/><br/>
+      <b>FastAPI</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="50"/><br/>
+      <b>React</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="50"/><br/>
+      <b>PostgreSQL</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>
+      <b>MySQL</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="50"/><br/>
+      <b>Git</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="50"/><br/>
+      <b>GitHub</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" width="50"/><br/>
+      <b>Postman</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br/>
+      <b>VS Code</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/512/2721/2721296.png" width="50"/><br/>
+      <b>Data Structures</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
