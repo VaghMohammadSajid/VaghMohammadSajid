@@ -37,8 +37,6 @@ I am an enthusiastic and detail-oriented **Python & Django developer** with ~1.5
 
 ---
 
-## 🚀 GitHub Insights  
-
 ## 🌟 GitHub Stats
 
 <p align="center">
