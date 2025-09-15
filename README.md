@@ -37,15 +37,19 @@ I am an enthusiastic and detail-oriented **Python & Django developer** with ~1.5
 
 ---
 
-## ⭐ GitHub Stats
+## 🚀 GitHub Insights  
+
 <p align="center">
-  <img alt="Mohammad's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=VaghMohammadSajid&show_icons=true&theme=radical" />
-  &nbsp;&nbsp;
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaghMohammadSajid&hide=html,css&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VaghMohammadSajid&show_icons=true&count_private=true&hide_border=true&title_color=ff6e96&icon_color=5f99ff&text_color=c9d1d9&bg_color=0d1117" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaghMohammadSajid&layout=compact&hide_border=true&title_color=ff6e96&text_color=c9d1d9&bg_color=0d1117" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VaghMohammadSajid&theme=radical" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VaghMohammadSajid&theme=onedark&margin-w=15&margin-h=15&no-frame=true&row=1" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VaghMohammadSajid&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
