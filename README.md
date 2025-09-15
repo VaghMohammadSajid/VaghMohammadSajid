@@ -21,15 +21,15 @@ I am an enthusiastic and detail-oriented **Python & Django developer** with ~1.5
 
 <p align="center">
   <a href="https://www.google.com/maps/search/Himatnagar,+Gujarat,+India" target="_blank">
-    <img src="https://img.shields.io/badge/📍-Himatnagar,%20GJ-0366d6?style=for-the-badge" alt="location" />
+    <img src="https://img.shields.io/badge/Location-🏠-blue?style=flat-square&logo=googlemaps" alt="location" />
   </a>
   &nbsp;
   <a href="mailto:vaghmohammadsajid8@gmail.com">
-    <img src="https://img.shields.io/badge/✉️-vaghmohammadsajid8@gmail.com-ff6b6b?style=for-the-badge" alt="email" />
+    <img src="https://img.shields.io/badge/Email-✉️-red?style=flat-square&logo=gmail" alt="email" />
   </a>
   &nbsp;
   <a href="tel:+918980331323">
-    <img src="https://img.shields.io/badge/📞-+91%208980331323-00C853?style=for-the-badge" alt="phone" />
+    <img src="https://img.shields.io/badge/Phone-📞-green?style=flat-square&logo=whatsapp" alt="phone" />
   </a>
 </p>
 
