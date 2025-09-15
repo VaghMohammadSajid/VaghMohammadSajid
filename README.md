@@ -4,15 +4,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/VaghMohammadSajid">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=VaghMohammadSajid&color=0e75b6" />
-  </a>
-  &nbsp;
-  <img alt="Top Language" src="https://img.shields.io/github/languages/top/VaghMohammadSajid?color=blueviolet" />
-  &nbsp;
-  <img alt="Repo count" src="https://img.shields.io/github/repo-size/VaghMohammadSajid/OneupBrand_Project-Admin_panel-?color=informational" />
-  &nbsp;
-  <img alt="Status" src="https://img.shields.io/badge/Looking_for%20Opportunities-Open-brightgreen" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=VaghMohammadSajid&color=0e75b6)
+  ![Top Langs](https://img.shields.io/github/languages/top/VaghMohammadSajid/OneupBrand_Project-Admin_panel-?color=blueviolet)
+  ![Repo Size](https://img.shields.io/github/repo-size/VaghMohammadSajid/OneupBrand_Project-Admin_panel-?color=informational)
+  ![Status](https://img.shields.io/badge/Looking%20for%20Opportunities-Open-brightgreen)
 </p>
 
 ---
