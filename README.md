@@ -19,7 +19,19 @@
 ## 👨‍💻 About Me
 I am an enthusiastic and detail-oriented **Python & Django developer** with ~1.5 years of hands-on experience building web applications, REST APIs and working with relational databases. I enjoy solving real-world problems, optimizing backend systems, and I'm actively learning **AI / ML** to expand my skillset.
 
-**Location:** Himatnagar, Gujarat, India • **Email:** vaghmohammadsajid8@gmail.com • **Phone:** +91 8980331323
+<p align="center">
+  <a href="https://www.google.com/maps/search/Himatnagar,+Gujarat,+India" target="_blank">
+    <img src="https://img.shields.io/badge/📍-Himatnagar,%20GJ-0366d6?style=for-the-badge" alt="location" />
+  </a>
+  &nbsp;
+  <a href="mailto:vaghmohammadsajid8@gmail.com">
+    <img src="https://img.shields.io/badge/✉️-vaghmohammadsajid8@gmail.com-ff6b6b?style=for-the-badge" alt="email" />
+  </a>
+  &nbsp;
+  <a href="tel:+918980331323">
+    <img src="https://img.shields.io/badge/📞-+91%208980331323-00C853?style=for-the-badge" alt="phone" />
+  </a>
+</p>
 
 ---
 
