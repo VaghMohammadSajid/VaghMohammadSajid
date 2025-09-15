@@ -1,13 +1,17 @@
 <!-- ========================== HEADER - Typing SVG & Badges ========================== -->
+<!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=000000&width=740&height=50&lines=Hello+👋,+I'm+Mohammad+Sajid;Python+Django+Developer;Aspiring+AI/ML+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohammad+Sajid+👋;Python+Django+Developer+💻;Backend+Enthusiast+🚀;Aspiring+AI%2FML+Learner+🤖" alt="Typing SVG" />
 </p>
 
+---
+
+<!-- Badges -->
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=VaghMohammadSajid&color=0e75b6)
-  ![Top Langs](https://img.shields.io/github/languages/top/VaghMohammadSajid/OneupBrand_Project-Admin_panel-?color=blueviolet)
-  ![Repo Size](https://img.shields.io/github/repo-size/VaghMohammadSajid/OneupBrand_Project-Admin_panel-?color=informational)
-  ![Status](https://img.shields.io/badge/Looking%20for%20Opportunities-Open-brightgreen)
+  <img src="https://komarev.com/ghpvc/?username=VaghMohammadSajid&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/languages/top/VaghMohammadSajid/OneupBrand_Project-Admin_panel-?color=blueviolet&style=for-the-badge" alt="Top Langs" />
+  <img src="https://img.shields.io/github/repo-size/VaghMohammadSajid/OneupBrand_Project-Admin_panel-?color=informational&style=for-the-badge" alt="Repo Size" />
+  <img src="https://img.shields.io/badge/Looking%20for%20Opportunities-Open-brightgreen?style=for-the-badge" alt="Status" />
 </p>
 
 ---
